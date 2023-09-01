@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Robo Connection / BRISA](https://residenciaticbrisa.github.io/03_Robotica/)
 
-- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Python, C/C++, SQL, AI**
+- 💬 Ask me about **Python, Pandas, C/C++, SQL, SKLearn**
 
 - 📫 How to reach me **gustavoomacedo@outlook.com.br**
 
