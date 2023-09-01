@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, C/C++, SQL, AI**
 
-- 📫 How to reach me **guga.macedo@hotmail.com**
+- 📫 How to reach me **gustavoomacedo@outlook.com.br**
 
 - ⚡ Fun fact **Judo brown belt!**
 
