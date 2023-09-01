@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFtNz8_fo8/t702RkdcurFfjtUPstZzYg/watch?utm_content=DAFtNz8_fo8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/Gustavo-Macedo1)
+[![MasterHead]([https://www.canva.com/design/DAFtNz8_fo8/t702RkdcurFfjtUPstZzYg/watch?utm_content=DAFtNz8_fo8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1))](https://github.com/Gustavo-Macedo1)
 
 <h1 align="center">Hi 👋, I'm Gustavo Macedo</h1>
 <h3 align="center">A passionate Computer Science student from Brazil</h3>
