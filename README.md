@@ -1,17 +1,20 @@
-[![MasterHead](https://www.canva.com/design/DAFtNz8_fo8/t702RkdcurFfjtUPstZzYg/watch?utm_content=DAFtNz8_fo8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/Gustavo-Macedo1)
-
 <h1 align="center">Hi 👋, I'm Gustavo Macedo</h1>
 <h3 align="center">A passionate Computer Science student from Brazil</h3>
 
 - 🔭 I’m currently working on [Robo Connection / BRISA](https://residenciaticbrisa.github.io/03_Robotica/)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning: **Data Science and Machine Learning**
 
-- 💬 Ask me about **Python, Pandas, C/C++, SQL, SKLearn**
+- 💬 Ask me about: **Python, Data Science, C/C++, MySQL, SKLearn**
 
-- 📫 How to reach me **gustavoomacedo@outlook.com.br**
+- 📫 How to reach me: **gustavoomacedo@outlook.com.br**
 
-- ⚡ Fun fact **Judo brown belt!**
+- ⚡ Fun fact: **Judo brown belt!**
+
+
+### If you're here to check my **Data Science projects**, please check [this repository](https://github.com/Gustavo-Macedo1/Projetos-Data-Science).
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
