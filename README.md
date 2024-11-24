@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **gustavoomacedo@outlook.com.br**
 
-- ⚡ Fun fact: **Judo brown belt!**
+- ⚡ Fun fact: **Judo black belt!**
 
 
 ### If you're here to check my **Data Science projects**, please check [this repository](https://github.com/Gustavo-Macedo1/Projetos-Data-Science).
